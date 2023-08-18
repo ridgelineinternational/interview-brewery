@@ -1,2 +1,0 @@
-com/brewery/BreweryApplicationTests.java
- com.brewery.BreweryApplicationTests
