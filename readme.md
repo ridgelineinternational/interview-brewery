@@ -9,4 +9,4 @@ and invoke endpoints. It makes use of the Open Brewery DB: https://www.openbrewe
   documentation: https://www.openbrewerydb.org/documentation)
 * Implement things like paging, sorting, ordering, filtering, etc.
 * Consider demonstrating solutions that may provide speed optimizations
-* Consume this brewery API in an AngularJS application
+* Consume this brewery API in an Angular application
